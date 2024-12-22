@@ -21,14 +21,9 @@ npm or yarn
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
+
 Install dependencies for both the frontend and backend:
 
-bash
-Copy code
 # Frontend
 cd frontend
 npm install
@@ -39,15 +34,3 @@ cd backend
 npm install
 Usage
 Start the backend server:
-
-bash
-Copy code
-cd backend
-npm run start
-Start the frontend React app:
-
-bash
-Copy code
-cd frontend
-npm start
-Open your browser and navigate to http://localhost:3000.
